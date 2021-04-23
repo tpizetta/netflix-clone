@@ -1,12 +1,7 @@
-<h1>Netflix Clone</h1>
+Netflix Clone
 
 Tecnologias utilizadas:
-
-<ul>
-    <li>HTML</li>
-    <li>CSS (flexbox, responsividade)</li>
-    <li>JAVA SCRIPT</li>
-</ul>
-
-</ul>
+HTML
+CSS
+JS
 
